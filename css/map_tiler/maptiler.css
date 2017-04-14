@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+
+form#validation-form > div.widget-body {
+	border: none;
+}
+
+form#validation-form > div.widget-body > div.widget-main > div.ace-file-input {
+	width: 800px;
+	float: left;
+	margin-right: 50px;
+}
+
+form#validation-form > div.widget-body > div.widget-main > input[type="submit"] {
+	margin-top: 3px;
+	color: black;
+	margin-top: -1px;
+	border-color: #6fb3e0;
+	line-height: 10px;
+}
+
+div#map_param_div > div {
+	padding-top: 10px;
+}
+
+div#map_param_div > div:nth-child(2) {
+	margin-left: 114px;
+}
+
+div#map_param_div > div > input {
+	width: 80px;
+	height: 25px;
+	padding: 4px;
+}
+
+input#north_east_lon, input#south_west_lon {
+	margin-left: 20px;
+}
+
+input#min_zoom {
+	margin-left: 20px;
+}
+
+div#map_view {
+	margin-top: 15px;
+	width: 100%;
+	height: 500px;
+	border: 1px solid black;
+	margin-bottom: 15px;
+}
+
+div#step2 {
+	
+}
+.maptiler_content_div{
+	margin:0px;
+}

@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+.form-search-box .control-label {
+    float: left;
+    padding-top: 5px;
+}
+#condition-form div.manager_search_button_div{
+	float: right;
+}
+#condition-form div button{
+    padding: 0px;
+    width: 60px;
+}
+#condition-form div{
+width: auto;
+}
+.btn {
+	padding: 0px 3px;
+}
+.form-search-box .control-label {
+	float: left;
+	padding-top: 5px;
+}
+

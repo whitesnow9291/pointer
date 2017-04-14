@@ -1,0 +1,40 @@
+.showerror {
+	border-color:#FF0000 !important;
+}
+
+.normal {
+	border-color:#0000FF !important;
+}
+
+.show_error_div {
+	color:#FF5A5A !important;
+	font-size:17px;
+	margin-bottom:20px;
+}
+
+.show_error_div span {
+	margin-left:25px;
+}
+
+.error_show {
+	display:block !important;
+}
+
+.error_hide {
+	display:none !important;
+}
+
+div.login-container div.center {
+	margin-top: 100px;
+}
+
+div.login-container form#login_form fieldset div.clearfix label.inline span {
+	margin-left: 8px;
+	margin-top: 2px;
+}
+#login-box {
+margin-top:10px;
+}
+#login-box .widget-main{
+	padding:16px 30px;
+}

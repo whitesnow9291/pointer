@@ -1,0 +1,59 @@
+.form-horizontal .control-group {
+	margin-bottom: 20px;
+}
+
+div {
+	display: block;
+}
+
+.form-horizontal .control-group:before,.form-horizontal .control-group:after
+	{
+	display: table;
+	line-height: 0;
+	content: "";
+}
+
+.form-horizontal .control-group:after {
+	clear: both;
+}
+
+.form-horizontal .control-group:before,.form-horizontal .control-group:after
+	{
+	display: table;
+	line-height: 0;
+	content: "";
+}
+
+.form-horizontal .control-label {
+	float: left;
+	width: 160px;
+	padding-top: 5px;
+	text-align: right;
+}
+
+label,.lbl {
+	vertical-align: middle;
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+label,input,button,select,textarea {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 20px;
+}
+
+label,select,button,input[type="button"],input[type="reset"],input[type="submit"],input[type="radio"],input[type="checkbox"]
+	{
+	cursor: pointer;
+}
+
+.form-horizontal .controls {
+	margin-left: 180px;
+}
+#input-form div > label{
+    padding-top:0px;
+}
